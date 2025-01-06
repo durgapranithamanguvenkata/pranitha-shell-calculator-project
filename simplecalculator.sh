@@ -6,4 +6,7 @@
 
 x = a+b
 
+# Substraction Functionality
+
+x = a-b
 
